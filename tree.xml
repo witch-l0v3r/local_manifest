@@ -6,4 +6,5 @@
  <project path="vendor/oneplus" name="witch-l0v3r/proprietary_vendor_oneplus" remote="github" revision="cm-14.1" />
  <project path="device/qcom/common" name="witch-l0v3r/android_device_qcom_common" remote="github" revision="cm-14.1" />
  <project path="device/qcom/sepolicy" name="witch-l0v3r/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />
+ <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
 </manifest>
